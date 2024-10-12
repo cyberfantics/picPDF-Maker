@@ -87,7 +87,7 @@ if dark_mode:
         h1, .st-emotion-cache-sy3zga {
             color: #FFD700; /* Gold color for better visibility */
         }
-        p {
+        p,span {
         color:green;
         }
         /* Download button styling */
