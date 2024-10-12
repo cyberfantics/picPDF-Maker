@@ -1,0 +1,3 @@
+streamlit==1.25.0
+Pillow==10.0.0
+fpdf==1.7.2
