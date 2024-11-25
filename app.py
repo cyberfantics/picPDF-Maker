@@ -222,5 +222,5 @@ elif choice == "About Us 👨‍💻":
         - Skilled in Python, web development, and data processing 📊
         - Focused on creating tools that enhance productivity and simplify tasks 🛠️
 
-        Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mansoor-bukhari-77549a264/) for any inquiries or collaborations! 🤝
+        Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mansoor-bukhari/) for any inquiries or collaborations! 🤝
     """)
